@@ -3,8 +3,8 @@
 
     class SgsSkinViewer {
         constructor() {
-            this.width = 1800;
-            this.height = 1300;
+            this.width = 670;
+            this.height = 1000;
             this.height_offset = 100;
             this.num = 0;
             this.showinfo = 0;
